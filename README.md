@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Aniket, welcome to my GitHub 🚀 ###
 
-</hr>
-  <a href="mailto:aaniket20@gmail.com" target="_blank">
-    <img align="left" width="26px" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg">
+<p align="left">
+  <a href="mailto:aaniket20@gmail.com" target="blank">
+    <img align="center" width="30" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg">
   </a>
-</br>
-  <a href="https://www.linkedin.com/in/aniket-jadhav-45926b122/">
-    <img align="left"` src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/aniket-jadhav-45926b122/" target="blank">
+    <img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" width="30" />
   </a>
+</p>
 <!--
 **keep-calm-and-develop/keep-calm-and-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
