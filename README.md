@@ -10,11 +10,15 @@
 </p>
 
 ### About Me 🚀
-Hi, I'm <b>Aniket Jadhav</b>. I have been working as a Front-End Developer since 2016 and currently as a Software engineer at [Nirmata](https://nirmata.com/). I am very passionate and curious about the every stack and process in Software development. I think Developing is the best medicine when combined with the Laughter and Passion 💙.
+Hi, I'm <b>Aniket Jadhav</b>. I have been working as a Front-End Developer since 2016 and currently as a Software engineer at [Nirmata](https://nirmata.com/).
 
-In my free I like to play and watch ~soccer~ football ⚽, to watch and learn about Geo-politics and Science related stuff and to brag about how great my jokes are  (that know one laugh at them except myself 😅) and logic behind them 😏.
+I am very passionate and curious about the every stack and process in Software development. I think Developing is the best medicine when combined with the Laughter and Passion 💙.
 
-Also like to day dream about solving a problem that will change millions of lives (not just only human lives) 👼.
+In my free I like to play and watch ~soccer~ football ⚽, and to play video games 🕹️ like Valorant, Dota2 and CS1.6 (old school 🤎) and to brag about how great my jokes are  (that know one laugh at them except myself 😅) and logic behind them 😏.
+
+🌞 Also like to day dream about solving a problem that will change millions of lives (not just only human lives) 👼.
+
+💬 Ask me about anything [here](https://github.com/keep-calm-and-develop/keep-calm-and-develop/issues)
 
 ### Technologies that I love (because I use them :P)
 
