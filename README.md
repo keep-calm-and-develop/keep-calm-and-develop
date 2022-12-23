@@ -1,6 +1,4 @@
-### Hi there, I'm Aniket Jadhav 👋
-
-
+## Hi there, I'm Aniket Jadhav 👋
 
 ### About Me 🚀
 
@@ -11,6 +9,8 @@
 - 🌞 I like to think and plan about solving problems that will change millions of lives 👼.
 
 - 💬 Ask me about anything [here](https://github.com/keep-calm-and-develop/keep-calm-and-develop/issues).
+
+I am very passionate and curious about the every stack and process in Software development. I think Developing is the best medicine when combined with the Laughter and Passion 💙.
 
 <div align="left">
   <p>I am looking to contribute, Please reach out via</p>
@@ -32,7 +32,10 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keep-calm-and-develop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keep-calm-and-develop&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+### Current Affairs
+- Learning and Practising DSA on Leetcode 🍇, you can track my progress [here](https://leetcode.com/AniketJadhav20/). 
+- Improving and Migrating private git repos to public to showcase them.
 
-I am very passionate and curious about the every stack and process in Software development. I think Developing is the best medicine when combined with the Laughter and Passion 💙.
-
+### Some more interesting stuff about me (if you jave reached this far) 
 In my free I like to play and watch ~soccer~ football ⚽, and to play video games 🕹️ like Valorant, Dota2 and CS1.6 (old school 🤎) and to brag about how great my jokes are  (that know one laugh at them except myself 😅) and logic behind them 😏.
+
