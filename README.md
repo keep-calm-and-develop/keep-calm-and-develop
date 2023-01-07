@@ -38,6 +38,6 @@ I am very passionate and curious about the every stack and process in Software d
 - Learning and Practising DSA on Leetcode 🍇, you can track my progress [here](https://leetcode.com/AniketJadhav20/). 
 - Improving and Migrating private git repos to public to showcase them.
 
-### Some more interesting stuff about me (if you jave reached this far) 
+### Some more interesting stuff about me (if you have reached this far) 
 In my free I like to play and watch ~soccer~ football ⚽, and to play video games 🕹️ like Valorant, Dota2 and CS1.6 (old school 🤎) and to brag about how great my jokes are  (that know one laugh at them except myself 😅) and logic behind them 😏.
 
