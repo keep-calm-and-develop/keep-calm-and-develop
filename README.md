@@ -4,7 +4,7 @@
 
 - 💼 Front-End Engineer at [Nirmata](https://nirmata.com/).
 
-- 💚 Currently mastering TypeScript, GraphQL, and Backend using Node js.
+- 💚 Currently mastering Unit testing and learning GraphQL.
 
 - 🌞 I like to think and plan about solving problems that will change millions of lives 👼.
 
