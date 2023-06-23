@@ -4,7 +4,7 @@
 
 - 💼 Front-End Engineer at [Nirmata](https://nirmata.com/).
 
-- 💚 Currently mastering Unit testing and learning GraphQL.
+- 💚 Currently trying out NextJs and Angular 14 as well as learning GraphQL.
 
 - 🌞 I like to think and plan about solving problems that will change millions of lives 👼.
 
@@ -12,10 +12,10 @@
 
 - 🏢 Checkout my organization [Git profile](https://github.com/aniket-nirmata).
 
-I am very passionate and curious about the every stack and process in Software development. I think Developing is the best medicine when combined with the Laughter and Passion 💙.
+I am very passionate and curious about every technical stack and process in Software development. I think Developing is the best medicine when combined with Laughter and Passion 💙.
 
 <div align="left">
-  <p>I am looking to contribute, Please reach out via</p>
+  <p>I am looking to contribute, please reach out via</p>
   <a href="mailto:aaniket20@gmail.com" target="blank">
     <img align="center" width="30" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg">
   </a><a href="https://www.linkedin.com/in/aniket-jadhav-45926b122/" target="blank">
