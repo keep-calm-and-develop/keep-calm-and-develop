@@ -4,7 +4,7 @@
 
 - 💼 Front-End Engineer at [Nirmata](https://nirmata.com/).
 
-- 💚 Currently mastering Next Js with GraphQL.
+- 💚 Currently mastering Next Js.
 
 - 🌞 I like to think and plan about solving problems that will change millions of lives 👼.
 
