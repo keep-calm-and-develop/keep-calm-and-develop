@@ -2,15 +2,13 @@
 
 ### About Me 🚀
 
-- 💼 Front-End Engineer at [Nirmata](https://nirmata.com/).
+- 💼 Lead Front-End Engineer at [Publicis Sapient](https://www.publicissapient.com/), previously [Nirmata](https://nirmata.com/).
 
-- 💚 Currently mastering Next Js.
+- 💚 Leading team to maintain and improve e-commerce platform.
 
-- 🌞 I like to think and plan about solving problems that will change millions of lives 👼.
+- 🌞 Planning my first SaaS venture.
 
 - 💬 Ask me about anything [here](https://github.com/keep-calm-and-develop/keep-calm-and-develop/issues).
-
-- 🏢 Checkout my organization [Git profile](https://github.com/aniket-nirmata).
 
 I am very passionate and curious about every technical stack and process in Software development. I think Developing is the best medicine when combined with Laughter and Passion 💙.
 
