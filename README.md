@@ -1,41 +1,91 @@
-## Hi there, I'm Aniket Jadhav 👋
+## Hi, I'm Aniket Jadhav 👋
 
-### About Me 🚀
+**Staff-leaning Frontend & AI Platform Engineer**  
+Bangkok, Thailand
 
-- 💼 Lead Front-End Engineer at [Publicis Sapient](https://www.publicissapient.com/), previously [Nirmata](https://nirmata.com/).
+---
 
-- 💚 Leading team to maintain and improve e-commerce platform.
+### 🚀 About Me
 
-- 🌞 Planning my first SaaS venture.
+I build high-performance web platforms and AI-native product experiences with a strong focus on **architecture, security, and real-world impact**.
 
-- 💬 Ask me about anything [here](https://github.com/keep-calm-and-develop/keep-calm-and-develop/issues).
+Currently working on AI and cloud platforms, where I design and ship:
 
-I am very passionate and curious about every technical stack and process in Software development. I think Developing is the best medicine when combined with Laughter and Passion 💙.
+- Multimodal AI interfaces (RAG, agents, streaming)
+- Secure authentication systems (OAuth2, PKCE, BFF)
+- High-performance React/Next.js applications
+- Scalable SaaS and cloud dashboards
 
-<div align="left">
-  <p>I am looking to contribute, please reach out via</p>
-  <a href="mailto:aaniket20@gmail.com" target="blank">
-    <img align="center" width="30" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg">
-  </a><a href="https://www.linkedin.com/in/aniket-jadhav-45926b122/" target="blank">
-    <img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" width="30" />
-  </a>
-</div>
+I enjoy working at the intersection of **product, platform, and developer experience**, and I’m particularly interested in how AI reshapes modern web applications.
 
-### Technologies that I love (because I use them :P)
+---
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### 🧠 How I Think
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keep-calm-and-develop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keep-calm-and-develop&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+- **Platform over features** — I prefer building systems that scale across teams.
+- **Measure what matters** — performance, reliability, and business impact first.
+- **Security is a product feature**, not an afterthought.
+- **Simple systems scale better** than clever ones.
+- Always optimizing for **developer experience + user experience together**.
 
-### Current Affairs
-- Learning and Practising DSA on Leetcode 🍇, you can track my progress [here](https://leetcode.com/AniketJadhav20/). 
-- Improving and Migrating private git repos to public to showcase them.
+---
 
-### Some more interesting stuff about me (if you have reached this far) 
-In my free I like to play and watch ~soccer~ football ⚽, and to play video games 🕹️ like Valorant, Dota2 and CS1.6 (old school 🤎) and to brag about how great my jokes are  (that know one laugh at them except myself 😅) and logic behind them 😏.
+### 🔧 Core Technologies
 
+**Frontend & Full-Stack**
+- React, Next.js, TypeScript
+- Node.js, Express
+- Zustand, React Query, Redux
+
+**AI & Real-Time Interfaces**
+- RAG-style applications
+- Agent workflows
+- Streaming (SSE/WebSocket patterns)
+- LLM-driven UI patterns
+
+**Security & Web Architecture**
+- OAuth2, PKCE
+- BFF architecture
+- JWT, CSRF/XSS mitigation
+- Secure session design
+
+**Cloud & Data**
+- Docker, Kubernetes
+- Firebase
+- SQL / Sequelize ORM
+
+**Mobile (select projects)**
+- React Native
+
+---
+
+### 🌱 Current Focus
+
+- Deepening expertise in **AI engineering and agent systems**
+- Exploring **production-grade LLM application patterns**
+- Building toward my first **AI-powered SaaS product**
+
+---
+
+### 🤝 Open To
+
+- Interesting technical discussions
+- AI platform collaborations
+- High-impact engineering roles (APAC-friendly)
+
+📫 Reach me at: **aaniket20@gmail.com**  
+💼 LinkedIn: **linkedin.com/in/aniket-jadhav-45926b122**
+
+---
+
+### ⚡ Outside of Code
+
+When I’m not building systems, you’ll probably find me:
+
+- ⚽ Watching or playing football  
+- 🎮 Occasionally gaming (old school included)  
+- 😄 Enjoying bad jokes that I still find funny  
+
+---
+
+> *Build systems that last. Optimize what matters. Keep it simple.*
